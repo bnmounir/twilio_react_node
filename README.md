@@ -27,7 +27,7 @@ If you'd like to contribute, please open a new issue and the appropriate PR.
 
 ### Thanks
 
-these are the resources I used to make this happen
+These are the resources I used to make this happen
 
 - [Docs](https://www.twilio.com/docs/conversations)
 - [Node Starter](https://github.com/TwilioDevEd/sdk-starter-node)
