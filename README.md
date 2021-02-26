@@ -31,4 +31,4 @@ These are the resources I used to make this happen
 
 - [Docs](https://www.twilio.com/docs/conversations)
 - [Node Starter](https://github.com/TwilioDevEd/sdk-starter-node)
-- [Conversation SDK](https://media.twiliocdn.com/sdk/js/video/releases/2.12.0/docs/)
+- [Conversation SDK](http://media.twiliocdn.com/sdk/js/conversations/releases/1.1.0/docs/index.html)
